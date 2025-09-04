@@ -1,0 +1,19 @@
+# Datasets
+Dataset
+
+# label
+label_*.csv
+
+# Others
+2025-08-26 15.00.24 Jinqi Liu - Directed Study Presentation
+Paper
+ML_Visuals.ai11.11.pptx
+Project.md
+
+# Tools
+calculate_size.py
+calculate_size_train.csv
+calculate_size_val.csv
+calculate_train.py
+copyImg.py
+cropped_faces.py
