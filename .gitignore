@@ -16,4 +16,3 @@ calculate_size_train.csv
 calculate_size_val.csv
 calculate_train.py
 copyImg.py
-cropped_faces.py

@@ -704,7 +704,7 @@ def main():
                     row["f1_mean"] = float(f1_arr.mean()) if num_classes > 0 else 0.0
                     row["precision_mean"] = float(pre.mean()) if num_classes > 0 else 0.0
 
-                    results_csv = os.path.join(".", "results3.csv")
+                    results_csv = os.path.join(".", "results.csv")
                     os.makedirs(os.path.dirname(results_csv), exist_ok=True)
 
                     write_header = (not os.path.exists(results_csv)) or (os.path.getsize(results_csv) == 0)
